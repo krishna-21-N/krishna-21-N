@@ -19,7 +19,7 @@ I am a 2025 MCA graduate passionate about building secure, scalable web applicat
 - **Tools & Fundamentals:** Git, GitHub, VS Code, OOP, Data Structures & Algorithms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,mysql,react,html,css,solidity,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,mysql,react,html,css,git,github,vscode" />
 </p>
 
 ---

@@ -50,14 +50,7 @@
   <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
-**Blockchain**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Truffle-5E464D?style=flat&logo=truffle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ganache-E4761B?style=flat&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=metamask&logoColor=white" />
-</p>
+ 
 
 **Tools**
 <p align="left">

@@ -95,8 +95,7 @@ A closed-roster, time-boxed voting platform with structurally anonymous ballots 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-21-N&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-21-N&theme=tokyo-night&hide_border=true" alt="activity graph" width="95%"/>
-
+ 
 </div>
 
 <br>

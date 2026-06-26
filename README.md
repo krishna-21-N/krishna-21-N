@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1A1A40&height=200&section=header&text=Krishnan%20N&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+
 # Hi there, I'm Krishnan N 👋
 
 ### 🎓 Python Full Stack Developer | Chennai, India 🇮🇳
@@ -68,15 +70,15 @@ A full-stack expense management system with **10 RESTful API endpoints** across 
 </td>
 <td width="50%" valign="top">
 
-### 🗳️ [Secure Voting System](https://github.com/krishna-21-N/voting-system)
+### 🗳️ Decentralized Voting System
 
-A closed-roster, time-boxed voting platform with structurally anonymous ballots — votes are never linked to voter identity at the database level.
+A blockchain-based voting platform enforcing one-vote-per-wallet with built-in fraud detection.
 
-**Tech Stack:** Node.js · Express.js · MySQL · JWT · Multer · HTML/CSS/JavaScript
+**Tech Stack:** React.js · Node.js · Express.js · MySQL · Solidity · Web3.js
 
-**Key Feature:** Enforces one-vote-per-person via MySQL transactions with row-level locking, and an admin-configurable voting window with server-side enforcement.
+**Key Feature:** 3 Ethereum smart contracts for candidate registration and immutable vote casting, deployed and tested with Truffle & Ganache.
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=krishna-21-N&repo=voting-system&theme=tokyonight&hide_border=true)](https://github.com/krishna-21-N/voting-system)
+> 📌 *Code repository coming soon*
 
 </td>
 </tr>
@@ -101,10 +103,10 @@ A closed-roster, time-boxed voting platform with structurally anonymous ballots 
 
 ## 🎓 Education
 
-| 🎓 Degree | 🏫 Institution | 📅 Years | ⭐ CGPA |
-|:---|:---|:---:|:---:|
-| **MCA** | Karpagam College of Engineering, Coimbatore | 2023–2025 | 7.45 |
-| **BCA** | Yadava College, Madurai | 2019–2022 | 6.99 |
+| 🎓 Degree | 🏫 Institution | 📅 Years |
+|:---|:---|:---:|
+| **MCA** | Karpagam College of Engineering, Coimbatore | 2023–2025 |
+| **BCA** | Yadava College, Madurai | 2019–2022 |
 
 **📜 Certifications:** HTML, CSS & JavaScript — *SmartCliff*
 
@@ -129,3 +131,5 @@ A closed-roster, time-boxed voting platform with structurally anonymous ballots 
 <i>⭐️ Thanks for visiting my profile — let's build something great together!</i>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A40,100:2E9EF7&height=120&section=footer" width="100%"/>

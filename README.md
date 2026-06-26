@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1A1A40&height=200&section=header&text=Krishnan%20N&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+
 # Hi there, I'm Krishnan N 👋
 
 ### 🎓 Python Full Stack Developer | Chennai, India 🇮🇳
@@ -101,10 +103,10 @@ A closed-roster, time-boxed voting platform with structurally anonymous ballots 
 
 ## 🎓 Education
 
-| 🎓 Degree | 🏫 Institution | 📅 Years | ⭐ CGPA |
-|:---|:---|:---:|:---:|
-| **MCA** | Karpagam College of Engineering, Coimbatore | 2023–2025 | 7.45 |
-| **BCA** | Yadava College, Madurai | 2019–2022 | 6.99 |
+| 🎓 Degree | 🏫 Institution | 📅 Years |
+|:---|:---|:---:|
+| **MCA** | Karpagam College of Engineering, Coimbatore | 2023–2025 |
+| **BCA** | Yadava College, Madurai | 2019–2022 |
 
 **📜 Certifications:** HTML, CSS & JavaScript — *SmartCliff*
 
@@ -129,3 +131,5 @@ A closed-roster, time-boxed voting platform with structurally anonymous ballots 
 <i>⭐️ Thanks for visiting my profile — let's build something great together!</i>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A40,100:2E9EF7&height=120&section=footer" width="100%"/>

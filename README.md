@@ -68,15 +68,15 @@ A full-stack expense management system with **10 RESTful API endpoints** across 
 </td>
 <td width="50%" valign="top">
 
-### 🗳️ Decentralized Voting System
+### 🗳️ [Secure Voting System](https://github.com/krishna-21-N/voting-system)
 
-A blockchain-based voting platform enforcing one-vote-per-wallet with built-in fraud detection.
+A closed-roster, time-boxed voting platform with structurally anonymous ballots — votes are never linked to voter identity at the database level.
 
-**Tech Stack:** React.js · Node.js · Express.js · MySQL · Solidity · Web3.js
+**Tech Stack:** Node.js · Express.js · MySQL · JWT · Multer · HTML/CSS/JavaScript
 
-**Key Feature:** 3 Ethereum smart contracts for candidate registration and immutable vote casting, deployed and tested with Truffle & Ganache.
+**Key Feature:** Enforces one-vote-per-person via MySQL transactions with row-level locking, and an admin-configurable voting window with server-side enforcement.
 
-> 📌 *Code repository coming soon*
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=krishna-21-N&repo=voting-system&theme=tokyonight&hide_border=true)](https://github.com/krishna-21-N/voting-system)
 
 </td>
 </tr>

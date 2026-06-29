@@ -77,6 +77,7 @@ A full-stack online voting platform with anonymous ballots, secure authenticatio
 **Tech Stack:** Python · FastAPI · MySQL · JWT · Pydantic · HTML/CSS/JavaScript
 
 **Key Features:** Anonymous ballot storage, MySQL transaction-based one-vote enforcement, admin-managed elections, candidate management, and live election results.
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=krishna-21-N&repo=voting-system&theme=tokyonight&hide_border=true)](https://github.com/krishna-21-N/voting-system)
 
  
 </td>

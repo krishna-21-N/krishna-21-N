@@ -69,17 +69,15 @@ A full-stack expense management system with **10 RESTful API endpoints** across 
 
 </td>
 <td width="50%" valign="top">
-
 ### 🗳️ [Secure Voting System](https://github.com/krishna-21-N/voting-system)
 
-A closed-roster, time-boxed voting platform with structurally anonymous ballots — votes are never linked to voter identity at the database level.
+A full-stack online voting platform with anonymous ballots, secure authentication, and one-vote-per-voter enforcement.
 
-**Tech Stack:** Node.js · Express.js · MySQL · JWT · Multer · HTML/CSS/JavaScript
+**Tech Stack:** Python · FastAPI · MySQL · JWT · Pydantic · HTML/CSS/JavaScript
 
-**Key Feature:** Enforces one-vote-per-person via MySQL transactions with row-level locking, and an admin-configurable voting window with server-side enforcement.
+**Key Features:** Anonymous ballot storage, MySQL transaction-based one-vote enforcement, admin-managed elections, candidate management, and live election results.
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=krishna-21-N&repo=voting-system&theme=tokyonight&hide_border=true)](https://github.com/krishna-21-N/voting-system)
-
 </td>
 </tr>
 </table>

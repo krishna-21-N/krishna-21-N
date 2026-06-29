@@ -69,6 +69,7 @@ A full-stack expense management system with **10 RESTful API endpoints** across 
 
 </td>
 <td width="50%" valign="top">
+ 
 ### 🗳️ [Secure Voting System](https://github.com/krishna-21-N/voting-system)
 
 A full-stack online voting platform with anonymous ballots, secure authentication, and one-vote-per-voter enforcement.
